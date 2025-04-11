@@ -3,4 +3,5 @@
 /Users/andrewlaskin/Desktop/bruh/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/publish/EsepWebhook.pdb
 /Users/andrewlaskin/Desktop/bruh/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/publish/Amazon.Lambda.Core.dll
 /Users/andrewlaskin/Desktop/bruh/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/publish/Amazon.Lambda.Serialization.SystemTextJson.dll
+/Users/andrewlaskin/Desktop/bruh/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/publish/Newtonsoft.Json.dll
 /Users/andrewlaskin/Desktop/bruh/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/publish/EsepWebhook.dll

@@ -31,7 +31,7 @@ public class Function
         string payload = $"{{'text':'Issue Created: {body.issue.html_url}'}}";
         */
         
-        string payload = $"{{'text':'Issue Created: {json.issue.html_url}'}}";
+        string payload = $"{{'Swag'}}";
 
         var client = new HttpClient();
         var webRequest = new HttpRequestMessage(HttpMethod.Post, Environment.GetEnvironmentVariable("SLACK_URL"))
